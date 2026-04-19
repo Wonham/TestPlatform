@@ -1,1 +1,9 @@
-IyBtYWNPUwouRFNfU3RvcmUKLl8qCi5TcG90bGlnaHQtVjEwMAouVHJhc2hlcwoKIyBNQVRMQUIKKi5hc3YKKi5tfgoqLm1leCoKKi5tZXh3NjQKKi5tZXhhNjQKKi5tZXhtYWNpNjQKc2xwcmovCiouc2x4YwoKIyBSYXcgZGF0YSBmaWxlcwpJKi50eHQKCiMgUmVzdWx0cyAoZ2VuZXJhdGVkIG91dHB1dCkKUmVzdWx0LyoudHh0Cg==
+# MATLAB
+*.asv
+*.p
+*.mat
+*.fig
+*.log
+
+# Output
+Result/
